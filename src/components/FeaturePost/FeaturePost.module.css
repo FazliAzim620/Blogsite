@@ -1,0 +1,16 @@
+.cardTitle{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px !important;
+  
+ 
+}
+.mainCard{
+background: url('https://images.unsplash.com/photo-1541428020872-7e39d27ed865?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=334&q=80');    /* object-fit: cover; */
+background-repeat: no-repeat;
+background-position: center;
+padding: 35px 25px;
+background-size: cover;
+}
+.CardActionBtn{
+    font-family: 'Montserrat';
+}

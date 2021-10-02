@@ -1,0 +1,10 @@
+.Title{
+  flex-grow: 1;
+
+}
+.tagline{
+    font-size: 14px;
+    text-transform: uppercase;
+    justify-content: center;
+    font-family: 'Montserrat', sans-serif;
+}
