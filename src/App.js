@@ -51,7 +51,7 @@ function App() {
       </Container>
       <Footer 
         title="Footer"
-        description="Something here to give the footer a purpose!"
+        description="Hi this is created by fazli!"
       />
     </ThemeProvider>
   );
